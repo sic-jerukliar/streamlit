@@ -18,7 +18,8 @@ Enables users to interact manually with the system:
 ### ℹ️ Page 3: About the Prototype
 Describes the goal of the prototype, its purpose for the SIC assignments, and relevant background details. Perfect for first-time visitors who want to understand the "why" behind the app.
 
----
+### 🧩 Page 4: Purpose for SIC Assignments
+The simulation was developed as part of the preparation and exploration phase of the SIC. It helps stakeholders visualize the intended user experience and system flow without needing a fully completed backend. This approach enables rapid iteration and early feedback, improving the final implementation quality.
 
 ## 🚀 HOW TO USE
 
