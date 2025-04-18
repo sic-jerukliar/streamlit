@@ -2,22 +2,18 @@
 
 This is the prototype for the SIC assignments — a Streamlit web application designed to showcase statistical summaries, enable detailed manual actions, and present background information about the system.
 
-(nanti isi lagi aja)
-
 ## ✨ FEATURES
 
 ### 📊 Page 1: Overview / Statistical Condition
 Provides a comprehensive dashboard summarizing key statistical insights. This includes:
 - Graphs and metrics to represent core data distributions
 - Real-time summaries or KPIs
-- Dynamic visualization (e.g., bar charts, line graphs, pie charts)
+- Dynamic visualization
 
 ### 🛠 Page 2: Details and Manual Actions
 Enables users to interact manually with the system:
-- Data manipulation or adjustments
-- User-defined filters or parameters
-- Export/download functionalities
-- Admin-only controls (if available)
+- Filter Students based on Presence Percentage
+- Send User Latter to Their Parents
 
 ### ℹ️ Page 3: About the Prototype
 Describes the goal of the prototype, its purpose for the SIC assignments, and relevant background details. Perfect for first-time visitors who want to understand the "why" behind the app.
