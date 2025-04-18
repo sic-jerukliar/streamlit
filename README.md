@@ -29,27 +29,27 @@ Describes the goal of the prototype, its purpose for the SIC assignments, and re
 0. **Clone Repository**  
     Clone Repository:
     ```bash
-    git clone https://github.com/alexchtst-01/streamlit-jerukliar.git
+    git clone https://github.com/sic-jerukliar/streamlit.git
 
-1. **Install dependencies**  
-   Make sure you have Python installed, then run:
-   ```bash
-   pip install -r requirements.txt
-
-2. **Create and Activate venv**  
+1. **Create and Activate venv**  
    Activate the virtual environment:
    ```bash
    python -m venv .venv
 
-3. **Activate venv**
+2. **Activate venv**
     Activate virtual environment:
     ```bash
     source .venv/Scripts/activate
 
+3. **Install dependencies**  
+   Make sure you have Python installed, then run:
+   ```bash
+   pip install -r requirements.txt
+
 3. **Run the app**
     Run the program
     ```bash
-   python -u main.py
+   python -u Overview.py
 
 4. **Navigate through pages**
 Use the sidebar to switch between:
@@ -59,6 +59,8 @@ Use the sidebar to switch between:
     - Manual Actions
 
     - About Prototype
+
+    - Simulate Prototype
 
 ## 🙌 CONTRIBUTORS
 
